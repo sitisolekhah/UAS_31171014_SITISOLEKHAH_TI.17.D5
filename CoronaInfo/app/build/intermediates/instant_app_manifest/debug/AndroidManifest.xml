@@ -23,7 +23,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
-        <activity android:name="com.azhar.coronainfo.activities.MainActivity" >
+        <activity android:name="com.sitisolekhah.appinfocorona.activities.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
